@@ -1,7 +1,5 @@
 #-*- coding:utf-8 -*-
 '''
-    spider project: 政府网站有关人社信息数据爬取
-    url: http://www.gov.cn/zhengce/index.htm
     date： 2017/10/17
     author:huliangjun
 '''
