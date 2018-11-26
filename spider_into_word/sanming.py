@@ -1,5 +1,4 @@
 #-*- encoding:utf-8 -*-
-__author__ = 'zzq'
 
 import selenium.webdriver.support.ui as ui
 from selenium import webdriver
